@@ -7,7 +7,7 @@
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(45deg, black, brown, red, orange, yellow, green, blue, purple);
+  background-image: linear-gradient(45deg, black, #996633, red, orange, yellow, green, blue, purple);
 
   @include large {
     padding: 5rem 6rem;
