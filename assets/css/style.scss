@@ -21,3 +21,29 @@
     padding: 2rem 1rem;
   }
 }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2952a3;
+}
+
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+
+  @include large {
+    font-size: 4rem;
+  }
+
+  @include medium {
+    font-size: 3rem;
+  }
+
+  @include small {
+    font-size: 2rem;
+  }
+}
