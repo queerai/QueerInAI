@@ -1,13 +1,13 @@
 ## Mission
-Queer In Ai is dedicated to making the AI/ML acedemic, professional, and educational communities more welcoming to queer people and to promoting research on the impacts of AI/ML on queer people.
+While great progress has been made in queer rights, support is still lacking for queer people at many research organizations and institutions. Cultures of de facto don't ask don't tell and ostracism discourage young queer people from joining our exciting and important field and force queer scientists in AI/ML to live painful lies.
+Queer In AI's mission to to make the AI/ML community one that welcomes, supports, and values queer scientists. We accomplish this by building a visible community of queer and ally AI/ML scientists through meetups, poster sessions, mentoring, and other initiatives.
+We also recognize the growing impact AI/ML has on people and the potential for these powerful learning and classification technologies to out queer people, in addition to other issues. Therefore, another central part of our mission is raising awareness of these issues in the general community and encouraging and highlighitng research on and solutions to these problems.
 
 ## Events
 We will be at NIPS 2018! Please check back later for more details.
 
 ## Get Involved
 If you are interested in getting involved in Queer In AI, please email William Agnew at wagnew3@cs.washington.edu with a statement of your interest in Queer in AI and a description of your experience with AI/ML and the queer community.
-
-## Leadership
 
 ## Contact
 wagnew3@cs.washington.edu
