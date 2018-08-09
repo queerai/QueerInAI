@@ -15,7 +15,7 @@ If you are interested in getting involved in Queer In AI, please email queerinai
 
 ## Leadership
 <figure>
-  <img src="../master/assets/img/William_Agnew.jpg" alt="William Agnew" width=20%/>
+  <img src="../master/assets/img/William_Agnew.jpg" alt="William Agnew" width=20% align="middle"/>
   <figcaption>Founding President -- William Agnew</figcaption>
 </figure>
 
