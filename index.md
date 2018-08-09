@@ -13,12 +13,6 @@ The Queer in AI@NIPS workshop will feature several speakers highlighting the que
 ## Get Involved
 If you are interested in getting involved in Queer In AI, please email queerinai@gmail.com with a statement of your interest in Queer in AI and a description of your experience with AI/ML and the queer community.
 
-## Leadership
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="../master/assets/img/William_Agnew.jpg" alt="William Agnew" width=20% align="middle"/><a href="https://www.william-agnew.com">William Agnew</a></figcaption> |Founding Treasurer Founding Corporate Outreach Director <a href="https://raphagl.com/">Raphael Gontijo Lopes</a></figcaption> | Founding Communications and Media Director <a href="http://www.it.uu.se/katalog/evabr658">Eva Breznik</a>|
-
-
 
 ## Contact
 queerinai@gmail.com
