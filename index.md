@@ -14,7 +14,8 @@ The Queer in AI@NIPS workshop will feature several speakers highlighting the que
 If you are interested in getting involved in Queer In AI, please email queerinai@gmail.com with a statement of your interest in Queer in AI and a description of your experience with AI/ML and the queer community.
 
 ## Leadership
-![alt text](../master/assets/img/William_Agnew.jpg "William Agnew")
+<img src="../master/assets/img/William_Agnew.jpg" alt="William Agnew" width=20%/>
+
 
 
 ## Contact
