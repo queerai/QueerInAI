@@ -16,8 +16,19 @@ If you are interested in getting involved in Queer In AI, please email queerinai
 ## Leadership
 <figure>
   <img src="../master/assets/img/William_Agnew.jpg" alt="William Agnew" width=20% align="middle"/>
-  <figcaption><center>Founding President
-<br>William Agnew</center></figcaption>
+  <figcaption>Founding President
+<br><a href="https://www.william-agnew.com">William Agnew</a></figcaption>
+</figure>
+
+<figure>
+  <figcaption>Founding Treasurer
+<br>Founding Corporate Outreach Director
+<br><a href="https://raphagl.com/">Raphael Gontijo Lopes</a></figcaption>
+</figure>
+
+<figure>
+  <figcaption>Founding Communications and Media Director
+<br><a href="http://www.it.uu.se/katalog/evabr658">Eva Breznik</a></figcaption>
 </figure>
 
 
