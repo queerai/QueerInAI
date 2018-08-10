@@ -50,12 +50,12 @@
     .header-text h2 {
         font-size: 20px;
     }
-    /**.mainmenu-area .navbar-toggle {
+    .mainmenu-area .navbar-toggle {
         margin-top: 20px;
     }
     .mainmenu-area .navbar-toggle .icon-bar {
         background-color: #ffffff;
-    }**/
+    }
     .mainmenu-area #primary-menu {
         background-color: #138FC2;
     }
