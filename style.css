@@ -136,7 +136,7 @@ input:-webkit-autofill:focus {
 }
 
 .section-padding {
-    padding: 120px 0;
+    padding: 60px 0;
 }
 
 .social-menu {
@@ -235,18 +235,6 @@ input:-webkit-autofill:focus {
     padding-bottom: 20px;
 }
 
-.page-title h2:after {
-    content: "\e675";
-    font-family: 'themify';
-    position: absolute;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
-    bottom: -10px;
-    width: 15px;
-    height: 15px;
-    font-size: 14px;
-}
 
 /**
 *Box-style
