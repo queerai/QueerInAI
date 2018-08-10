@@ -56,9 +56,10 @@
     .mainmenu-area .navbar-toggle .icon-bar {
         background-color: #ffffff;
     }
+/*
     .mainmenu-area #primary-menu {
         background-color: #138FC2;
-    }
+    }*/
     .mainmenu-area #primary-menu ul {
         overflow-y: auto;
         max-height: 70vh;
