@@ -43,6 +43,7 @@ a {
     -webkit-transition: 0.4s;
     transition: 0.4s;
     color: #333333;
+    text-decoration: underline;
 }
 
 input:focus,
@@ -187,6 +188,11 @@ input:-webkit-autofill:focus {
 .gray-bg {
     background-color: #f2fefe;
 }
+
+.white-bg {
+    background-color: #ffffff;
+}
+
 
 /**
 *Default Button
@@ -922,6 +928,13 @@ preloader
 .sk-folding-cube .sk-cube4:before {
     -webkit-animation-delay: 0.9s;
     animation-delay: 0.9s;
+}
+
+.sponsor_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
 }
 
 @-webkit-keyframes sk-foldCubeAngle {
