@@ -83,6 +83,16 @@ body {
     color: #515656;
 }
 
+p {
+  font-weight: normal;
+  color: #4d4d4d;
+}
+
+.strong {
+ /* color: #4d4d4d; */
+  font-weight: bold;
+}
+
 
 /* Remove Chrome Input Field's Unwanted Yellow Background Color */
 
@@ -95,6 +105,11 @@ input:-webkit-autofill:focus {
 /**
 *Helper-Classes
 **/
+
+.twenty-height {
+    width: 100%;
+    height: 20vh;
+}
 
 .quarter-height {
     width: 100%;
@@ -231,7 +246,7 @@ input:-webkit-autofill:focus {
 **/
 
 .page-title {
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
 }
 
 .page-title h2 {
@@ -293,7 +308,8 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area {
     
-    background: linear-gradient(90deg, rgba(0,0,0,0.9), rgba(102, 51, 0,0.9), rgba(204, 0, 0,0.9), rgba(204, 122, 0,0.9), rgba(204, 204, 0,0.9), rgba(0, 128, 0,0.9), rgba(0, 0, 255, 0.9), rgba(128, 0, 128, 0.9));
+    /* background: linear-gradient(90deg, rgba(0,0,0,0.9), rgba(102, 51, 0,0.9), rgba(204, 0, 0,0.9), rgba(204, 122, 0,0.9), rgba(204, 204, 0,0.9), rgba(0, 128, 0,0.9), rgba(0, 0, 255, 0.9), rgba(128, 0, 128, 0.9)); */
+    background-color: white;
     position: fixed;
     left: 0;
     top: 0;
@@ -306,7 +322,7 @@ input:-webkit-autofill:focus {
 .overlay,
 .overlay a,
 .mainmenu-area a {
-    color: #ffffff;
+    color: #4d4d4d;
 }
 
 .mainmenu-area .logo {
@@ -323,7 +339,7 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area #primary-menu > ul > li > a {
     background: none;
-    padding: 30px 15px;
+    padding: 55px 15px;
     position: relative;
     border-top: 3px solid transparent;
     text-align: center;
@@ -356,14 +372,36 @@ input:-webkit-autofill:focus {
 
 /**.mainmenu-area #primary-menu ul li.active a,**/
 .mainmenu-area #primary-menu ul li a:hover {
-    border-top: 3px solid #ffffff;
+    border-top: 3px solid #4d4d4d;
 }
 
 .mainmenu-area.affix {
-    background-color: #138fc2;
+    background-color: white;
 }
 
+.rainbow-blue-bg {
+    background-color: rgba(64, 194, 255, 0.05);
+}
 
+.rainbow-purple-bg {
+    background-color: rgba(135, 20, 255, 0.05);
+}
+
+.rainbow-red-bg {
+    background-color: rgba(242, 17, 39, 0.05);
+}
+
+.rainbow-orange-bg {
+    background-color: rgba(255, 102, 0, 0.05);
+}
+
+.rainbow-yellow-bg {
+    background-color: rgba(255, 179, 0, 0.05);
+}
+
+.rainbow-green-bg {
+    background-color: rgba(89, 255, 0, 0.05);
+}
 
 /**
 *Header-area
@@ -387,6 +425,10 @@ input:-webkit-autofill:focus {
 .header-text h2 {
     margin-bottom: 20px;
     font-size: 40px;
+}
+
+.no-underline {
+  text-decoration-line: none;
 }
 
 .header-text .button {
